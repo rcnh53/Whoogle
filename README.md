@@ -1,6 +1,6 @@
 ```py
 
-- **[Whoogle](https://github.com/benbusby/whoogle-search)** __Themes..__
+[Whoogle](https://github.com/benbusby/whoogle-search)
 
 More will be added soon.
 
